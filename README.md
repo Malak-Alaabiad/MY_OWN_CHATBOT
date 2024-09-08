@@ -1,6 +1,6 @@
 # 🤖 Custom Chatbot Project
 
-## Introduction
+## Introduction:
 
 Welcome to my custom chatbot project! This chatbot is designed to interact in a friendly, conversational manner, answering questions about me and engaging in real-time dialogue. It can provide information on my education, skills, projects, and much more.
 
@@ -10,7 +10,7 @@ This project was built using advanced Natural Language Processing (NLP) techniqu
   <img src="Chatbot.jpg" width=40%>
 </div>
 
-## Features
+## Features:
 
 - **Personalized Conversations:** The chatbot is trained to answer questions about my background, education, experience, and hobbies.
 - **Real-time Responses:** Engages in a smooth and friendly conversation, responding like a human friend.
@@ -18,11 +18,11 @@ This project was built using advanced Natural Language Processing (NLP) techniqu
 - **Showcases Projects:** The bot can discuss my key projects, like my Road Damage Detection using YOLOv8 project.
 - **Continuous Improvement:** The chatbot is continuously learning from new data and interactions, making it smarter over time.
 
-## How It Works
+## How It Works?
 
 This chatbot uses a custom dataset created from personal information, structured in a CSV file. The chatbot leverages Hugging Face transformers for training and utilizes NLP models to understand and respond to user input.
 
-### Data
+### Data:
 
 The chatbot pulls information from a structured CSV file that contains different sections of personal details, such as:
 
@@ -39,7 +39,7 @@ The chatbot pulls information from a structured CSV file that contains different
   <img src="Run_Screenshot .png" width=100%>
 </div>
 
-## Usage
+## Usage:
 
 Once the chatbot is running, you can ask it a variety of questions, such as:
 
@@ -53,11 +53,11 @@ You can also ask general conversational questions like:
 - "What's your favorite programming language?"
 - "Tell me about your hobbies."
 
-## Customization
+## Customization:
 
 You can modify the chatbot’s responses by updating the `profile_data.csv` file with your own information. You can add new sections and data as needed, making the chatbot completely personalized.
 
-## Technologies Used
+## Technologies Used:
 
 - Python
 - Hugging Face Transformers
@@ -65,7 +65,7 @@ You can modify the chatbot’s responses by updating the `profile_data.csv` file
 - Pandas for CSV file handling
 - Machine Learning for training the model
 
-## Future Enhancements
+## Future Enhancements:
 
 - Incorporating speech-to-text and text-to-speech capabilities for voice interaction.
 - Enhancing the chatbot with more advanced AI features, like emotion detection or sentiment analysis.
