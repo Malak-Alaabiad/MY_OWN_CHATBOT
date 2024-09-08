@@ -35,6 +35,10 @@ The chatbot pulls information from a structured CSV file that contains different
 - Skills overview
 - Personal interests and future goals
 
+</div>
+  <img src="Run_Screenshot .png" width=100%>
+</div>
+
 ## Installation
 
 To run this project locally, follow the steps below:
