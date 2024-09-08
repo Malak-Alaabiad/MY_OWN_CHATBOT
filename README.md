@@ -6,6 +6,10 @@ Welcome to my custom chatbot project! This chatbot is designed to interact in a 
 
 This project was built using advanced Natural Language Processing (NLP) techniques to create a personal chatbot that acts like a virtual assistant or even a virtual friend.
 
+</div>
+  <img src="Skin_Tone_Classification_Model.jpg" width=100%>
+</div>
+
 ## Features
 
 - **Personalized Conversations:** The chatbot is trained to answer questions about my background, education, experience, and hobbies.
