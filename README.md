@@ -7,7 +7,7 @@ Welcome to my custom chatbot project! This chatbot is designed to interact in a 
 This project was built using advanced Natural Language Processing (NLP) techniques to create a personal chatbot that acts like a virtual assistant or even a virtual friend.
 
 </div>
-  <img src="Chatbot.jpg" width=100%>
+  <img src="Chatbot.jpg" width=40%>
 </div>
 
 ## Features
