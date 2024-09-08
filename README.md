@@ -39,39 +39,6 @@ The chatbot pulls information from a structured CSV file that contains different
   <img src="Run_Screenshot .png" width=100%>
 </div>
 
-## Installation
-
-To run this project locally, follow the steps below:
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/yourusername/custom-chatbot.git
-    ```
-
-2. **Navigate into the project directory:**
-
-    ```bash
-    cd custom-chatbot
-    ```
-
-3. **Install the necessary dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Set up Hugging Face:**
-
-    - Sign up for a free Hugging Face account if you don’t have one.
-    - Obtain an API key from Hugging Face.
-
-5. **Run the chatbot:**
-
-    ```bash
-    python chatbot.py
-    ```
-
 ## Usage
 
 Once the chatbot is running, you can ask it a variety of questions, such as:
@@ -103,8 +70,3 @@ You can modify the chatbot’s responses by updating the `profile_data.csv` file
 - Incorporating speech-to-text and text-to-speech capabilities for voice interaction.
 - Enhancing the chatbot with more advanced AI features, like emotion detection or sentiment analysis.
 - Expanding the dataset to provide richer responses and support more diverse questions.
-
-## Contributions
-
-Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
